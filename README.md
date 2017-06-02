@@ -1,4 +1,4 @@
-# Logi Circle Control from Azure Function
+# Logi Circle Camera Control from Azure Function
 Control Logi Circle via Azure Function
 
 Add these App Settings in Azure
